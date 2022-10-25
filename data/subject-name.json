@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Math"
+    },
+    {
+      "id": "02",
+      "name": "Coding"
+    },
+    {
+      "id": "03",
+      "name": "English"
+    },
+    {
+      "id": "04",
+      "name": "Music"
+    },
+    {
+      "id": "05",
+      "name": "History"
+    },
+    {
+      "id": "06",
+      "name": "Culture"
+    },
+    {
+      "id": "07",
+      "name": "Arts and Media"
+    },
+    {
+      "id": "08",
+      "name": "All Subjects"
+    }
+  ]
