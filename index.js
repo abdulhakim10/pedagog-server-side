@@ -15,7 +15,12 @@ app.get('/subject-name', (req, res) => {
     res.send(subjectName)
 })
 
-
+// for id 
+app.get('/subject/:id', (req, res) => {
+    const id = req.params.id;
+    const item = subjectName.find(it => it.id === id)
+    res.send(item)
+})
 
 app.listen(port, () => {
     console.log('pedagog api', port);
