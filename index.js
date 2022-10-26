@@ -21,6 +21,11 @@ app.get('/subject/:id', (req, res) => {
     const item = subjectName.find(it => it.id === id)
     res.send(item)
 })
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const item = subjectName.find(it => it.id === id)
+    res.send(item)
+})
 
 app.listen(port, () => {
     console.log('pedagog api', port);
