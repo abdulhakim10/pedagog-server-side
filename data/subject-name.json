@@ -4,7 +4,7 @@
         "name": "Math",
         "img": "https://ww2.kqed.org/app/uploads/sites/38/2020/03/PBSLM-Collection_Math.png",
         "description": "This course has an emphasis on the origins of mathematics, and a focus on mathematics as a creative endeavor.This course explores the uses and abuses of numbers in a wide variety of areas. The modern world is built of numbers. In science, medicine, business, politics, and even culture, numbers are used to bolster claims and debunk conventional wisdom.Students will study the mathematical foundations of elementary school mathematics. This course will develop a student's abilities to reason mathematically, to solve mathematical problems, and to communicate mathematical ideas effectively.",
-        
+        "price": "40",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -16,6 +16,7 @@
         "name": "Coding",
         "img": "https://img.freepik.com/premium-vector/software-development-programming-language-coding_284092-33.jpg",
         "description": "Coding knowledge is a must-have 21st century skill. The ability to read,write,and understand code has never been more-important,useful,or lucrative as it is today.Computer code has forever changed our lives.Some people can't even make it through the day without interacting with something built with code.f you're ready to learn the magic behind web and app development but don't know a style sheet from a string , coding for beginners is the perfect place to start.Explore the basics of HTML,CSS,JavaScript,Ruby,C# and Python.Learning to code in different programming languages can be fun, challenging and rewarding.By the end of this course you should be able to confidently write code to build your own applications.",
+        "price": "50",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -27,6 +28,7 @@
         "name": "English",
         "img": "https://1.bp.blogspot.com/-9LVMxRvojuU/WAyXt36K37I/AAAAAAAAAok/GWJHHwJvBq45uCFdYFujpyHfPD6AWlxoQCLcB/s1600/d40d27e4ff1b4391b84accdb73203055.png",
         "description": "This course emphasizes the development of fluency and intelligibility in spoken English. Through individual and group activities, students work on improving pronunciation, practicing conversation strategies and delivering oral presentations.Students develop vocabulary and reading strategies required to comprehend academic textbooks and literature in various fields of study.Students learn the grammatical patterns and sentence construction used in academic writing and focus on improving sentence-level grammatical accuracy in the writing of coherent, well-developed paragraphs.",
+        "price": "45",
       "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -38,6 +40,7 @@
         "name": "Music",
         "img": "http://musicteacher.com/wp-content/uploads/2021/02/online-music-lessons.jpg",
         "description": "This course emphasizes the Elements of Music explores a wide range of musics to reveal the surprising complexity within seemingly universal musical elements: pitch, melody, harmony, rhythm, and form. Building Musical Skills introduces practical listening and making skills, and explores analytical concepts and terminology that are applicable both across and within specific musical traditions",
+        "price": "35",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -49,6 +52,7 @@
         "name": "History",
         "img": "https://plhswave.org/wp-content/uploads/2017/10/history.png",
         "description": "This course is designed to introduce you to the historian’s task: what it is historians do and how they do it. We will strengthen your reading, writing, and thinking skills. We will ask what it means to read, write, and think like a historian. We will interrogate the archives: not just their holdings, but how they are made, when, by whom, and for what purpose. The course considers how people, environment, social movements, religion, political ideologies, and philosophical ideas have shaped human society.",
+        "price": "30",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -60,6 +64,7 @@
         "name": "Culture",
         "img": "https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2021/04/thumb_720_450_dreamstime_l_156955233.jpg",
         "description": "This course introduces students to the terms, analytical techniques, and interpretive strategies commonly employed in cultural studies. Emphasis is on interdisciplinary approaches to exploring how cultural processes and artifacts are produced, shaped, distributed, consumed and responded to in diverse ways.",
+        "price": "20",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
@@ -71,6 +76,7 @@
         "name": "Drawing",
         "img": "https://digitaldefynd.com/wp-content/uploads/2019/11/best-figure-drawing-course-class-certification-training-online.jpg",
         "description": "These courses focus on building fundamental drawing skills. Students will learn basic techniques such as shading, controlling tones, composition, and drawing methods. Additionally, we learn how to see with an artist's eye and capture what we see on paper.",
+        "price": "35",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
